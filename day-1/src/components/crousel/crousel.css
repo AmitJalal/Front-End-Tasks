@@ -1,0 +1,42 @@
+#root {
+  --bx-shadow: 2px 2px 6px 0px rgba(0, 0, 0, 0.3);
+  --b-rad: 2.5em;
+}
+.card {
+  border-radius: 0.5rem;
+  padding: 0.75em 0;
+}
+
+.main {
+  margin: 2em 0;
+  box-sizing: border-box;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.crousel {
+  width: 85%;
+  height: 25%;
+}
+
+.crousel div > img {
+  max-width: 500px;
+  height: 500px;
+  object-fit: cover;
+  border-radius: var(--b-rad);
+  box-shadow: var(--bx-shadow);
+}
+
+.carousel.carousel-slider .control-arrow {
+  background-color: rgb(0, 0, 0, 0.2);
+  border-radius: 2.5rem;
+  color: black;
+}
+
+.carousel .carousel-status {
+    font-size:  1em;
+    margin: 25px;
+    color: rgb(75, 74, 74);
+}
