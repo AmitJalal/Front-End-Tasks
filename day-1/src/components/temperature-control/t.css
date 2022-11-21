@@ -1,0 +1,71 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.ab-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.wrapper {
+  margin: 4em 0;
+  width: 20vw;
+  height: 30em;
+  background-color: rgb(48, 87, 110);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 2.75em;
+  border-radius: 2.5em;
+
+  -webkit-box-shadow: 22px 0px 43px 2px rgba(0, 0, 0, 0.34);
+  -moz-box-shadow: 22px 0px 43px 2px rgba(0, 0, 0, 0.34);
+  box-shadow: 22px 0px 43px 2px rgba(0, 0, 0, 0.34);
+}
+
+.temperature {
+  box-sizing: border-box;
+  background-color: rgb(25, 91, 165);
+  width: 6em;
+  height: 6em;
+  border-radius: 50%;
+  color: white;
+  font-size: 40px;
+  border: 4px solid white;
+}
+
+.controller {
+  display: flex;
+  gap: 2em;
+}
+
+.controller > button {
+  background-color: #9d9fa1;
+  width: 2em;
+  height: 2em;
+  border-radius: 50%;
+  color: white;
+  border: 2px solid white;
+  font-size: 2em;
+  font-weight: bolder;
+}
+
+.controller > button:hover {
+  background-color: rgb(103, 105, 107);
+  cursor: pointer;
+}
+
+.controller > button:active {
+  transform: translateY(4px);
+}
