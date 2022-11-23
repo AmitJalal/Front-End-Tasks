@@ -1,7 +1,7 @@
 # Front-End-Tasks
 
 ## DAY 1 - 
-</br> </br>
+</br>
 ### WEB PAGE OUTPUT :
 ![web-page](https://user-images.githubusercontent.com/96337905/203055582-d3ec3cb7-7180-4bc8-b97c-d04ec8567bb8.png)
 
@@ -14,7 +14,7 @@
 </br> </br> </br> </br>
 
 ## DAY 3 -
-</br> </br>
+</br> 
 
 ### QUIZ APP
 ![image](https://user-images.githubusercontent.com/96337905/203511790-da184e77-745c-4b48-bc8e-776c55c6bf4e.png)
