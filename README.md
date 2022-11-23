@@ -3,7 +3,7 @@
 ## DAY 1 - 
 </br>
 ### WEB PAGE OUTPUT :
-![web-page](https://user-images.githubusercontent.com/96337905/203055582-d3ec3cb7-7180-4bc8-b97c-d04ec8567bb8.png)
+![image](https://user-images.githubusercontent.com/96337905/203512802-1af418e3-2346-4daa-8cd2-21fc0f50652a.png)
 
 ### TEMPERATURE CONTROLLER OUTPUT :
 ![temperature-control](https://user-images.githubusercontent.com/96337905/203055970-2025889a-0864-4742-900d-59541e1a4619.png)
