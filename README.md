@@ -1,6 +1,6 @@
 # Front-End-Tasks
 
-## DAY 1 - 
+## DAY 1 - https://github.com/AmitJalal/Front-End-Tasks/tree/main/day-1/src
 </br>
 
 ### WEB PAGE OUTPUT :
