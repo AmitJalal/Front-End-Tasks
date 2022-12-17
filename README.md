@@ -14,7 +14,7 @@
 
 </br> </br> </br> </br>
 
-## DAY 3 -
+## DAY 3 - https://github.com/AmitJalal/Front-End-Tasks/tree/main/day--3/src
 </br> 
 
 ### QUIZ APP
